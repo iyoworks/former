@@ -1,12 +1,12 @@
 {
-    "name": "anahkiasen/former",
-    "description": "A powerful form builder for the Laravel framework",
-    "authors": [
+  "name": "iyoworks/former",
+  "description": "[FORKED] A powerful form builder for the Laravel framework",
+  "authors": [
         {
-            "name": "Maxime Fabre",
-            "email": "ehtnam6@gmail.com"
+            "name": "Blessing Osakue",
+            "email": "blessing@iyoworks.com"
         }
-    ],
+  ],
     "autoload": {
         "psr-0": {
             "Former": "libraries/"
