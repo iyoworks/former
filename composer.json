@@ -1,5 +1,5 @@
 {
-  "name": "anahkiasen/former",
+  "name": "iyoworks/former",
   "description": "A powerful form builder for the Laravel framework",
   "license": "MIT",
   "keywords": [
@@ -17,7 +17,7 @@
   "require": {
     "illuminate/container": "dev-master",
     "anahkiasen/underscore-php": "dev-master",
-    "meido/form": "dev-master"
+    "iyoworks/form": "dev-master"
   },
   "require-dev": {
     "mockery/mockery": "dev-master"
