@@ -1,6 +1,6 @@
 {
   "name": "iyoworks/former",
-  "description": "A powerful form builder for the Laravel framework",
+  "description": "[PORTED] Anahkiasen/former. A powerful form builder for the Laravel framework",
   "license": "MIT",
   "keywords": [
     "bootstrap",
@@ -9,10 +9,10 @@
     "laravel"
   ],
   "authors": [
-    {
-      "name": "Maxime Fabre",
-      "email": "ehtnam6@gmail.com"
-    }
+        {
+            "name": "Blessing Osakue",
+            "email": "blessing@iyoworks.com"
+        }
   ],
   "require": {
     "illuminate/container": "dev-master",
